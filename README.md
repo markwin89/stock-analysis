@@ -3,8 +3,8 @@
 ## Overview
 
 ### Purpose
-Analyzing the return percentage and the daily volume of the stock tickers under the 2 year parameters. 
----
+**Analyzing the return percentage and the daily volume of the stock tickers under the 2 year parameters. **
+
 ## Results
 ### 2017
 2017 had great returns with the exception of TERP.  The refactored code ran for 0.1015625 seconds to execute. 
