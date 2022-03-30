@@ -8,11 +8,11 @@ Analyzing the return percentage and the daily volume of the stock tickers under 
 ## Results
 ### 2017
 2017 had great returns with the exception of TERP.  The refactored code ran for 0.1015625 seconds to execute. 
-
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/101272613/160852044-0feef5cf-11f8-4000-a934-66c11494bbb8.png)
 
 ### 2018
 2018 was a bad year for most stock tickers except ENPH and RUN.  The refactored code ran for 0.0859375 seconds to execute. 
-
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/101272613/160852061-163366f3-b323-4882-8507-abf6023c2088.png)
 
 ---
 ## Advantages and Disadvantages of Refactoring Code
