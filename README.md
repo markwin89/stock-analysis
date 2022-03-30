@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-**Analyzing the return percentage and the daily volume of the stock tickers under the 2 year parameters. **
+Analyzing the return percentage and the daily volume of the stock tickers under the 2 year parameters.
 
 ## Results
 ### 2017
